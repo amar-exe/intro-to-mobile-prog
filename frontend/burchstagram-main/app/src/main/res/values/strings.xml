@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Burchstagram</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="departments">
+        <item>Information Technologies</item>
+        <item>Electrical Engineering</item>
+        <item>Economics</item>
+        <item>DCPR</item>
+    </string-array>
+    <string name="home">Home</string>
+    <string name="add_post_text">Picture URL</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notifications">Notifications</string>
+    <string name="signup_button">REGISTER</string>
+    <string name="email_string">Email</string>
+    <string name="name_string">Name</string>
+    <string name="surname_string">Surname</string>
+    <string name="username_string">Username</string>
+    <string name="password_string">Password</string>
+    <string name="repeat_password_string">Repeat Password</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="confirm_pass_change">CONFIRM CHANGE</string>
+    <string name="add_post">Add Post</string>
+    <string name="logout_string">LOGOUT</string>
+    <string name="user_settings">User Settings</string>
+
+
+</resources>
